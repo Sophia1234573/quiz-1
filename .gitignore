@@ -6,4 +6,3 @@
 out
 *.xml
 **/target
-**/resources
