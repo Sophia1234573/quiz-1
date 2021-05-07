@@ -17,6 +17,9 @@ import java.util.TimeZone;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * class contains some method
+ */
 public class FileReaderAndWriter {
 
     /**
